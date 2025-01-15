@@ -31,7 +31,7 @@
 <ul>
   <li>🏅 Star of the Quarter - Morningstar</li>
   <li>🏅 SPOT Award - Morningstar</li>
-  <li>🏅 Data & Analytics All Star Award for Automation**</li>
+  <li>🏅 Data & Analytics All Star Award for Automation</li>
   <li>🏅 Outstanding Team Award</li>
 </ul>
 
