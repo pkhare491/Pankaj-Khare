@@ -10,7 +10,7 @@
 - 👨‍💻 You can explore all of my projects and tools on my [GitHub](https://github.com/pkhare491)
 - 💬 Feel free to ask me about **Python**, **MSSQL**, **Power BI**, **Advanced Excel**, **AI**, and more
 - 📫 Reach out to me via email: [pkhare491@gmail.com](mailto:pkhare491@gmail.com)
-- 📄 Check out my professional journey and accomplishments in my "left">Connect with me:</h3>
+- 📄 Check out my professional journey and accomplishments </h3>
 <p align="left">
   <a href="https://linkedin.com/in/pankajkhare169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankajkhare169" height="30" width="40" /></a>
   <a href="https://www.naukri.com/mnjuser/profile?id=123" target="blank"><img align="center" src="https://media.licdn.com/dms/image/v2/D5622AQEOmOG79ZLPHA/feedshare-shrink_800/feedshare-shrink_800/0/1713365833966?e=2147483647&v=beta&t=HQn7vlDUinaGpcoAPLJ-U27UezVkKIb42PlDUsVskq0" alt="pankajkhare169" height="30" width="40" /></a>
@@ -29,10 +29,10 @@
 
 <h3 align="left">Achievements & Awards:</h3>
 <ul>
-  <li>🏅 **Star of the Quarter** - Morningstar</li>
-  <li>🏅 **SPOT Award** - Morningstar</li>
-  <li>🏅 **Data & Analytics All Star Award for Automation**</li>
-  <li>🏅 **Outstanding Team Award**</li>
+  <li>🏅 Star of the Quarter - Morningstar</li>
+  <li>🏅 SPOT Award - Morningstar</li>
+  <li>🏅 Data & Analytics All Star Award for Automation**</li>
+  <li>🏅 Outstanding Team Award</li>
 </ul>
 
 <h3 align="left">About Me:</h3>
